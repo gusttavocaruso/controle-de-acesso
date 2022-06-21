@@ -1,0 +1,13 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Menu aceita entradas e mostra relatório",
+        "bonus": false
+      },
+      {
+        "description": "2 - Menu rejeita opção inválida",
+        "bonus": false
+      }
+    ]
+}
+  

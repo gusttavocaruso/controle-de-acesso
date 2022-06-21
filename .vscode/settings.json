@@ -1,0 +1,4 @@
+{
+  "java.checkstyle.configuration": "${workspaceFolder}/pom.xml",
+  "java.format.settings.url": ".vscode/java-formatter.xml"
+}
